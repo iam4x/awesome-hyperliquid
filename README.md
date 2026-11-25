@@ -77,6 +77,8 @@
 
 - [hl-builder-fees](https://github.com/Floatout/hl-builder-fees) - Zero-dependency TypeScript library for builder code fee math: `f` unit conversions, per-product caps (perps, spot, HIP-3, HIP-4), asset id classification, exact BigInt fee and split calculations. MIT, on npm.
 
+- - [Hyperliquid JavaScript SDK](https://github.com/sieblyio/hyperliquid-api) - Typed Node.js and TypeScript SDK for the Hyperliquid REST API and WebSockets (`@siebly/hyperliquid-api` on npm, MIT). [Tutorial](https://siebly.io/sdk/hyperliquid/javascript/tutorial) · [Docs](https://sieblyio.github.io/docs/hyperliquid/)
+
 ### Projects
 - [Rage](https://www.rage.trade/)
 - [HyBridge](https://x.com/HyBridgeHL)
